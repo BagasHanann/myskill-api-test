@@ -16,3 +16,4 @@ npm install
 ```
 npm run test {path/to/file}.js
 ```
+5. Oke
